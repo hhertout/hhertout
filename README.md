@@ -1,6 +1,6 @@
 ### :fire: Welcome on my GitHub page !
-
-:computer: I work actually to become FrontEnd & BackEnd developer. 
+* Work in progress *
+# :computer: I work actually to become FrontEnd & BackEnd developer. 
 
 :books: Wild Code School - Orléans | 2022
 
