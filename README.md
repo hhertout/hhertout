@@ -20,6 +20,7 @@
 - Bootstrap
 
 ### Tools
+- Visual Studio Code
 - Figma
 - Adobe Photoshop - Lightroom
 - Davinci-resolve
