@@ -14,7 +14,6 @@
 
 ### FrameWorks / Libraries
 - Symphony
-- Node.js / Express.js
 - npm
 - GSAP
 - Bootstrap
