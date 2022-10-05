@@ -20,6 +20,7 @@
 
 ### Tools
 - Visual Studio Code
+- Git / GitHub
 - Figma
 - Adobe Photoshop - Lightroom
 - Davinci-resolve
