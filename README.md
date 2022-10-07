@@ -5,11 +5,9 @@
 :books: Wild Code School - Orléans | 2022
 
 ### Languages
-- HTML
-- CSS
+- HTML / CSS
 - JavaScript
-- PHP
-- MySQL
+- PHP / MySQL
 - Python
 
 ### FrameWorks / Libraries
