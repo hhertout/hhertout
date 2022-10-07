@@ -13,6 +13,7 @@
 - Python
 
 ### FrameWorks / Libraries
+- Sass
 - Symphony
 - npm
 - GSAP
