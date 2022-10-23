@@ -13,7 +13,6 @@
 ### FrameWorks / Libraries
 - Sass
 - Symphony
-- npm
 - GSAP
 - Bootstrap
 
