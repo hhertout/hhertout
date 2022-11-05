@@ -11,8 +11,8 @@
 - Python
 
 ### FrameWorks / Libraries
-- Sass
 - Symphony
+- Sass
 - GSAP
 - Bootstrap
 
