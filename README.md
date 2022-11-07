@@ -13,6 +13,7 @@
 ### FrameWorks / Libraries
 - Symphony
 - Sass
+- Three.js (learning)
 - GSAP
 - Bootstrap
 
