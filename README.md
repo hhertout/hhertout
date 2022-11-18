@@ -11,7 +11,7 @@
 - Python
 
 ### FrameWorks / Libraries
-- Symphony
+- Symfony
 - Sass
 - Three.js (learning)
 - GSAP
