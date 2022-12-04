@@ -11,6 +11,7 @@
 - Python
 
 ### FrameWorks / Libraries
+- React (learning)
 - Symfony (learning)
 - Sass
 - Three.js (learning)
