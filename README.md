@@ -11,16 +11,18 @@
 - Python
 
 ### FrameWorks / Libraries
+- Symfony / Twig
+- Three.js
 - React (learning)
-- Symfony (learning)
-- Sass
-- Three.js (learning)
+- Node (learning)
+- Express (learning)
 - GSAP
-- Bootstrap
+- Sass / Bootstrap / Tailwind
+- MySql / MongoDB
 
 ### Tools
 - Visual Studio Code
 - Git / GitHub
 - Figma
-- Adobe Photoshop - Lightroom
+- Adobe Photoshop - Lightroom - Illustrator
 - Davinci-resolve
