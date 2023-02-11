@@ -6,21 +6,12 @@
 Wild Code School - Orléans | 2022 - 2023
 
 ### 🚀 Languages
-- JavaScript
-- PHP 
+- JavaScript (React / Node / Three.js)
+- PHP (Symfony)
 - Go
 
-### FrameWorks / Libraries
-- Symfony
-- React
-- Node / Express
-- Three.js
-- GSAP / Sass / Bootstrap / Tailwind
-- MySql 
+### Stats
 
-### ⚒️ Tools
-- VS Code
-- Git / GitHub
-- Figma
-- Adobe Photoshop - Lightroom - Illustrator
-- Davinci-resolve
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hhertout&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hhertout&layout=compact&hide=scss,css,html)](https://github.com/anuraghazra/github-readme-stats)
