@@ -1,29 +1,25 @@
-# 🚀 Welcome on my GitHub page !
+# 👋 Welcome on my GitHub
 *Work in progress*
 
-## :computer: FrontEnd & BackEnd developer. 
+## FrontEnd & BackEnd developer. 
 
-:books: Wild Code School - Orléans | 2022
+Wild Code School - Orléans | 2022 - 2023
 
-### Languages
-- HTML / CSS
+### 🚀 Languages
 - JavaScript
 - PHP 
-- MySQL
-- Python
+- Go
 
 ### FrameWorks / Libraries
-- Symfony / Twig
+- Symfony
 - Three.js
-- React (learning)
-- Node (learning)
-- Express (learning)
-- GSAP
-- Sass / Bootstrap / Tailwind
-- MySql / MongoDB
+- React
+- Node / Express
+- GSAP / Sass / Bootstrap / Tailwind
+- MySql 
 
-### Tools
-- Visual Studio Code
+### ⚒️ Tools
+- VS Code
 - Git / GitHub
 - Figma
 - Adobe Photoshop - Lightroom - Illustrator
