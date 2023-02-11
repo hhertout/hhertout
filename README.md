@@ -12,9 +12,9 @@ Wild Code School - Orléans | 2022 - 2023
 
 ### FrameWorks / Libraries
 - Symfony
-- Three.js
 - React
 - Node / Express
+- Three.js
 - GSAP / Sass / Bootstrap / Tailwind
 - MySql 
 
