@@ -5,7 +5,7 @@
 
 Wild Code School - Orléans | 2022 - 2023
 
-### 🚀 Languages
+### 🚀 Stack
 - JavaScript (React / Node / Three.js)
 - PHP (Symfony)
 - Go (Gin) *learning*
