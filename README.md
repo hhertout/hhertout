@@ -10,6 +10,8 @@ Wild Code School - Orléans | 2022 - 2023
 - PHP (Symfony)
 - Go *(learning)*
 
+- 🐳 Docker 
+- graphQL
 ### 📊 Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hhertout&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hhertout&hide_border=true&layout=compact&hide=scss,css,html)](https://github.com/anuraghazra/github-readme-stats)
