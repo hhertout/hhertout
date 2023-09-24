@@ -1,7 +1,6 @@
 # 👋 Welcome on my GitHub
-*Work in progress*
 
-## FrontEnd & BackEnd developer. 
+## Full stack developer. 
 
 Wild Code School - Orléans | 2022 - 2023
 
