@@ -7,10 +7,11 @@ Wild Code School - Orléans | 2022 - 2023
 
 ### 🚀 Stack
 
-<img src="https://skillicons.dev/icons?i=typescript,javascript,php,go,docker" />
+<img src="https://skillicons.dev/icons?i=typescript,javascript,php,docker" />
 <img src="https://skillicons.dev/icons?i=react,symfony,laravel,threejs" />
 <img src="https://skillicons.dev/icons?i=bootstrap,mui,sass" />
 <img src="https://skillicons.dev/icons?i=postgresql,mysql,graphql" />
+<img src="https://skillicons.dev/icons?i=go,rust" />
 
 ### 📊 Stats
 
