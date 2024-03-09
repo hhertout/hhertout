@@ -2,8 +2,6 @@
 
 ## Full stack developer. 
 
-Wild Code School - Orléans | 2022 - 2023
-
 ### 🚀 Stack
 
 <img src="https://skillicons.dev/icons?i=typescript,javascript,php,docker" />
