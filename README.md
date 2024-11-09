@@ -4,11 +4,11 @@
 
 ### 🚀 Stack
 
-<img src="https://skillicons.dev/icons?i=typescript,javascript,php,docker" />
+<img src="https://skillicons.dev/icons?i=typescript,go,docker,kubernetes,gitlab" />
 <img src="https://skillicons.dev/icons?i=react,symfony,laravel,threejs" />
 <img src="https://skillicons.dev/icons?i=bootstrap,mui,sass" />
 <img src="https://skillicons.dev/icons?i=postgresql,mysql,graphql" />
-<img src="https://skillicons.dev/icons?i=go,rust" />
+<img src="https://skillicons.dev/icons?i=rust,php" />
 
 ### 📊 Stats
 
