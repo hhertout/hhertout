@@ -2,13 +2,13 @@
 
 ## Full stack developer. 
 
-### 🚀 Stack
+### 🛕 Skills pyramid
 
-<img src="https://skillicons.dev/icons?i=typescript,go,docker,kubernetes,gitlab" />
-<img src="https://skillicons.dev/icons?i=react,symfony,laravel,threejs" />
-<img src="https://skillicons.dev/icons?i=bootstrap,mui,sass" />
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,graphql" />
-<img src="https://skillicons.dev/icons?i=rust,php" />
+<img src="https://skillicons.dev/icons?i=typescript,svelte,tailwind,go,docker,kubernetes,gitlab,graphql" />
+<img src="https://skillicons.dev/icons?i=php,postgresql,react,php,threejs" />
+<img src="https://skillicons.dev/icons?i=bootstrap,mui,sass,rust" />
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=swift,java" />
 
 ### 📊 Stats
 
