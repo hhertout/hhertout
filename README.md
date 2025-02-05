@@ -5,8 +5,8 @@
 ### 🛕 Skills pyramid
 
 <img src="https://skillicons.dev/icons?i=typescript,svelte,tailwind,go,docker,kubernetes,gitlab,graphql,grafana" />
-<img src="https://skillicons.dev/icons?i=php,postgresql,react,threejs" />
-<img src="https://skillicons.dev/icons?i=bootstrap,mui,sass,rust" />
+<img src="https://skillicons.dev/icons?i=php,postgresql,react,threejs,golang" />
+<img src="https://skillicons.dev/icons?i=rust" />
 <img src="https://skillicons.dev/icons?i=mysql" />
 <img src="https://skillicons.dev/icons?i=swift,java" />
 
