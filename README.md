@@ -4,7 +4,7 @@
 
 <img src="https://skillicons.dev/icons?i=typescript,svelte,tailwind,go,docker,kubernetes,gitlab,graphql,grafana" />
 <img src="https://skillicons.dev/icons?i=php,postgresql,react,threejs,golang" />
-<img src="https://skillicons.dev/icons?i=rust,ansible" />
+<img src="https://skillicons.dev/icons?i=rust,ansible,terraform" />
 <img src="https://skillicons.dev/icons?i=mysql" />
 <img src="https://skillicons.dev/icons?i=swift,java" />
 
