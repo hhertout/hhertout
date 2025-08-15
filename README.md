@@ -1,4 +1,4 @@
-# Full stack software engineer
+# Software engineer
 
 ## 🛕 Skills pyramid
 
